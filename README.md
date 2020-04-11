@@ -4,3 +4,4 @@ Examples for supervised and unsupervised learning algorithms
 * Data Wrangling
 * Principal Component Analysis
 * Process Mining
+* Time Series Analysis
