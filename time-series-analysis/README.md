@@ -9,6 +9,6 @@
 * List the loaded datasets: 
   > ls()
 * Show the dataset: 
-  > <dataset-name> ex: "coagulation"
+  > dataset-name ex: "coagulation"
 * Summary of dataset:
   > summary(coagulation)
